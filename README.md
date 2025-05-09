@@ -127,7 +127,7 @@ project-root/
 
 ### SSH Key Generation
 
-![SSH Key Generation](https://i.imgur.com/ssh_key_generation.png)
+![SSH Key Generation](image/Screenshot 2025-05-09 140435.png)
 
 Berhasil membuat pasangan kunci SSH:
 - Private key: `id_rsa` (2KB)
