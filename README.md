@@ -16,7 +16,7 @@ Dokumentasi praktik hands-on untuk pemahaman konsep kriptografi dan keamanan jar
 
 ## Overview
 
-Project ini berisi implementasi praktis dari dua teknologi kriptografi yang fundamental:
+Project ini berisi implementasi praktis dari dua materi kelas kriptografi yang fundamental:
 
 1. **SSH Key-Pair Authentication**: Metode otentikasi yang aman tanpa password menggunakan pasangan kunci publik-privat
 2. **RSA Encryption/Decryption**: Simulasi sederhana algoritma RSA untuk enkripsi dan dekripsi pesan
