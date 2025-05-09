@@ -5,7 +5,7 @@ Dokumentasi praktik hands-on untuk pemahaman konsep kriptografi dan keamanan jar
 - **SSH (Secure Shell)**: Implementasi koneksi jarak jauh yang aman dan manajemen kunci
 - **RSA (Rivest-Shamir-Adleman)**: Simulasi algoritma enkripsi dan dekripsi asimetrik dengan Python
 
-## 📋 Daftar Isi
+## Daftar Isi
 
 - [Overview](#overview)
 - [SSH Key Generation & Connection](#ssh-key-generation--connection)
